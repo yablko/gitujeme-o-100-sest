@@ -1,6 +1,6 @@
 # Git / GitHub od základov
 
-Môj kurz **Git / GitHub od základov 🇸🇰** nájdeš [celý zdarma na youtube](http://robweb.sk).
+Môj kurz **Git / GitHub od základov 🇸🇰** nájdeš [celý zdarma na youtube](http://robweb.sk).  
 Toto sú príkazy, ktoré ukazujem a podrobne vysvetľujem v kurze.
 
 ---
@@ -9,7 +9,7 @@ Toto sú príkazy, ktoré ukazujem a podrobne vysvetľujem v kurze.
 
 Pre Windows odporúčam [cmder](https://cmder.net/).
 
-Na Macu spusti prvý príkaz cez Terminál a mal by sa nainštalovať Git.
+Na Macu spusti prvý príkaz cez Terminál a mal by sa nainštalovať Git.  
 Ak nie, spusti druhý príkaz.
 
 ```
@@ -94,7 +94,7 @@ Ak chceš zrušiť označenie súborov.
 git restore --staged .
 ```
 
-Commitni všetky **zmenené** (nie nové) súbory.
+Commitni všetky **zmenené** (nie nové) súbory.  
 Hneď pridaj komentár.
 
 ```
@@ -236,88 +236,88 @@ Ak chceš nevedieť, kde ti hlava stojí, prečítaj si o [merge vs rebase](http
 
 ### CHEAT SHEETS
 
-- https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
-- https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
-- https://www.git-tower.com/blog/git-cheat-sheet/
-- https://devhints.io/git-tricks
+- https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf  
+- https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet  
+- https://www.git-tower.com/blog/git-cheat-sheet/  
+- https://devhints.io/git-tricks  
 
 ---
 
 ### ODKAZY Z KURZU, BIBLIOGRAFIA
 
-GIT
-:: https://git-scm.com/
+GIT  
+:: https://git-scm.com/  
 
-GIT OFICIÁLNY ONLINE BOOK
-:: https://git-scm.com/book/en/v2
+GIT OFICIÁLNY ONLINE BOOK  
+:: https://git-scm.com/book/en/v2  
 
-GIT OFICIÁLNE VIDEÁ
-:: https://git-scm.com/videos
+GIT OFICIÁLNE VIDEÁ  
+:: https://git-scm.com/videos  
 
-OFICIÁLNY CHEAT SHEET (pdf)
-:: https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
+OFICIÁLNY CHEAT SHEET (pdf)  
+:: https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf  
 
-CAMBRIDGE Lecture 6: Version Control (git) (2020)
-:: https://www.youtube.com/watch?v=2sjqTHE0zok
-
----
-
-GIT KRAKEN
-:: https://www.gitkraken.com
-
-GITLAB
-:: https://about.gitlab.com
-
-BITBUCKET
-:: https://bitbucket.org/product
+CAMBRIDGE Lecture 6: Version Control (git) (2020)  
+:: https://www.youtube.com/watch?v=2sjqTHE0zok  
 
 ---
 
-GITHUB TRENDING
-:: https://github.com/trending
+GIT KRAKEN  
+:: https://www.gitkraken.com  
 
-HEMINGWAYOVÁTORO-ROTÁTOR™
-:: https://github.com/yablko/hemingwayovatoro-rotator
+GITLAB  
+:: https://about.gitlab.com  
 
-HYPER (Mac terminal)
-:: https://hyper.is/
-
-CMDER (pre Win)
-:: https://cmder.net/
-
-GIT INŠTALÁTOR
-:: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+BITBUCKET  
+:: https://bitbucket.org/product  
 
 ---
 
-Using Version Control in VS Code
-:: https://code.visualstudio.com/Docs/editor/versioncontrol
+GITHUB TRENDING  
+:: https://github.com/trending  
 
-Git version control in VS Code (VIDEO)
-:: https://code.visualstudio.com/docs/introvideos/versioncontrol
+HEMINGWAYOVÁTORO-ROTÁTOR™  
+:: https://github.com/yablko/hemingwayovatoro-rotator  
+    
+HYPER (Mac terminal)  
+:: https://hyper.is/  
 
-How to use Git Integration in Visual Studio Code
-:: https://www.digitalocean.com/community/tutorials/how-to-use-git-integration-in-visual-studio-code
+CMDER (pre Win)  
+:: https://cmder.net/  
 
----
-
-MERGE vs REBASE
-:: https://www.atlassian.com/git/tutorials/merging-vs-rebasing
-:: https://derekgourlay.com/blog/git-when-to-merge-vs-when-to-rebase/
-:: https://www.reddit.com/r/git/comments/56ie0x/git_fastforward_merge_vs_git_rebase_same_thing/
-
----
-
-.gitignore
-:: https://git-scm.com/docs/gitignore
-:: https://www.atlassian.com/git/tutorials/saving-changes/gitignore
-:: https://docs.github.com/en/github/using-git/ignoring-files
-
-.gitignore GENERÁTOR
-:: https://www.toptal.com/developers/gitignore
+GIT INŠTALÁTOR  
+:: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git  
 
 ---
 
-MARKDOWN SYNTAX
-:: https://www.markdownguide.org/basic-syntax
-:: https://daringfireball.net/projects/markdown/syntax
+Using Version Control in VS Code  
+:: https://code.visualstudio.com/Docs/editor/versioncontrol  
+
+Git version control in VS Code (VIDEO)   
+:: https://code.visualstudio.com/docs/introvideos/versioncontrol  
+
+How to use Git Integration in Visual Studio Code  
+:: https://www.digitalocean.com/community/tutorials/how-to-use-git-integration-in-visual-studio-code  
+
+---
+
+MERGE vs REBASE  
+:: https://www.atlassian.com/git/tutorials/merging-vs-rebasing  
+:: https://derekgourlay.com/blog/git-when-to-merge-vs-when-to-rebase/  
+:: https://www.reddit.com/r/git/comments/56ie0x/git_fastforward_merge_vs_git_rebase_same_thing/  
+
+---
+
+.gitignore  
+:: https://git-scm.com/docs/gitignore  
+:: https://www.atlassian.com/git/tutorials/saving-changes/gitignore  
+:: https://docs.github.com/en/github/using-git/ignoring-files  
+
+.gitignore GENERÁTOR  
+:: https://www.toptal.com/developers/gitignore  
+
+---
+
+MARKDOWN SYNTAX  
+:: https://www.markdownguide.org/basic-syntax  
+:: https://daringfireball.net/projects/markdown/syntax   
