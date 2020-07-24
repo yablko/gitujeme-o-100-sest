@@ -1,6 +1,6 @@
 # Git / GitHub od základov
 
-Môj kurz **Git / GitHub od základov 🇸🇰** nájdeš [celý zdarma na youtube](http://robweb.sk).
+Môj kurz **Git / GitHub od základov 🇸🇰** nájdeš [celý zdarma na youtube](http://robweb.sk).  
 Toto sú príkazy, ktoré ukazujem a podrobne vysvetľujem v kurze.
 
 ---
@@ -9,7 +9,7 @@ Toto sú príkazy, ktoré ukazujem a podrobne vysvetľujem v kurze.
 
 Pre Windows odporúčam [cmder](https://cmder.net/).
 
-Na Macu spusti prvý príkaz cez Terminál a mal by sa nainštalovať Git.
+Na Macu spusti prvý príkaz cez Terminál a mal by sa nainštalovať Git.  
 Ak nie, spusti druhý príkaz.
 
 ```
