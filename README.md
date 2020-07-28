@@ -265,7 +265,10 @@ CAMBRIDGE Lecture 6: Version Control (git) (2020)
 GIT KRAKEN  
 :: https://www.gitkraken.com  
 
-GITLAB  
+SUBLIME MERGE  
+:: https://www.sublimemerge.com   
+   
+GITLAB    
 :: https://about.gitlab.com  
 
 BITBUCKET  
@@ -278,6 +281,8 @@ GITHUB TRENDING
 
 HEMINGWAYOVÁTORO-ROTÁTOR™  
 :: https://github.com/yablko/hemingwayovatoro-rotator  
+  
+---
     
 HYPER (Mac terminal)  
 :: https://hyper.is/  
