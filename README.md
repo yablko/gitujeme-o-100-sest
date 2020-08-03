@@ -82,12 +82,18 @@ Označ všetky **.png** súbory z adresá **images**.
 git add images/*.png
 ```
 
-Označ všetky z tohoto adresára.
+Označ všetky z tohoto adresára (okrem vymazaných súborov).
 
 ```
 git add .
 ```
 
+Označ všetky z tohoto adresára (vrátane vymazaných súborov).  
+  
+```
+git add -A
+```
+  
 Ak chceš zrušiť označenie súborov.
 
 ```
