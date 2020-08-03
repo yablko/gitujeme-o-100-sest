@@ -1,7 +1,7 @@
 # Git / GitHub od základov
 
 Môj kurz **Git / GitHub od základov 🇸🇰** nájdeš [celý zdarma na youtube](http://robweb.sk).  
-Ak ma chceš podporiť (a taktiež potešiť) môžeš [cez patreon](https://www.patreon.com/yablko).
+Ak ma chceš podporiť (a taktiež mocne potešiť) môžeš [cez patreon](https://www.patreon.com/yablko).  
 Toto sú príkazy, ktoré ukazujem a podrobne vysvetľujem v kurze.
 
 ---
