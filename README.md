@@ -8,7 +8,7 @@ Toto sú príkazy, ktoré ukazujem a podrobne vysvetľujem v kurze.
 
 ### INŠTALÁCIA
 
-Pre Windows odporúčam [cmder](https://cmder.net/).
+Pre Windows odporúčam [cmder](https://cmder.app/).
 
 Na Macu spusti prvý príkaz cez Terminál a mal by sa nainštalovať Git.  
 Ak nie, spusti druhý príkaz.
@@ -18,7 +18,7 @@ git --version
 xcode-select --install
 ```
 
-Ak sa nedarí, nainštaluj [odtiaľto](https://git-scm.com/download/).
+Ak sa nedarí, nainštaluj [odtiaľto](https://git-scm.com/downloads).
 
 ---
 
